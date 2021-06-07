@@ -1,0 +1,50 @@
+
+
+/** HEADER **/
+.navbar {
+	background-color: #edb61f	
+}
+
+.navbar-brand {
+	height: 50%;
+	margin-left: 30px;
+}
+
+.navbar-toggle {
+	height: 60px;
+	width: 60px;
+	margin-top: 20px;
+	padding: 0;
+}
+
+.navbar-toggle .icon-bar {
+  	margin: auto;
+  	width: 40px;
+  	height: 4px;   
+}
+
+
+#heightcap{
+	min-height: 6px;
+}
+
+#collapsable-nav {
+	background-color: #fa9d39;
+	margin: auto;
+	text-align: center;
+	font-size: 2em;
+}
+
+h1 {
+	font-size: 2em;
+	color: #382510;
+}
+
+#pagebody{
+	position: absolute;
+	height: 1000px;
+	background-color: #f7d7b5;
+	color: #382510;
+	width: 90%;
+	margin: 5%;
+}
